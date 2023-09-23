@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int n;
+int afs=0;
 int find2(int front1, int rear1, int* list1); 
 int* list = new int[n + 1];
 int flag = 0;
